@@ -25,7 +25,7 @@ jobs:
     - name: Upload Files
       uses: actions/upload-artifact@v2
       with:
-        name: ClothingBlueprints
+        name: ConvenientBlueprints
         path: ./Distributable/*
         if-no-files-found: error
         
