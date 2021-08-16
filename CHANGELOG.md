@@ -1,5 +1,7 @@
 # CHANGELOG
+
 ## v1.0.0 (2021-08-16):
+
 ### New
 * Added StoneToScrapMetal recipe
 * Added RabbitPeltToLeather recipe
