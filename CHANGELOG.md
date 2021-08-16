@@ -1,7 +1,6 @@
 # CHANGELOG
 ## v1.0.0 (2021-08-16):
 ### New
-#### Blueprints
 * Added StoneToScrapMetal recipe
 * Added RabbitPeltToLeather recipe
 * Added DeerHideToLeather recipe
@@ -10,5 +9,4 @@
 * Added BearHideToLeather recipe
 * Added CardboardMatches recipe
 * Added WoodMatches recipe
-#### Crafting Icons
 * Added crafting icon for StoneToScrapMetal
