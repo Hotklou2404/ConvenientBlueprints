@@ -1,5 +1,5 @@
-# Changelog
-## v1.0.0 (2021-08-16)
+# CHANGELOG
+## v1.0.0 (2021-08-16):
 ### New
 #### Blueprints
 * Added StoneToScrapMetal recipe
