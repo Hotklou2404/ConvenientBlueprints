@@ -1,0 +1,18 @@
+{
+    "@type": "ModComponentAPI.ModBlueprint",
+    "RequiredGear": ["GEAR_Softwood"],
+    "RequiredGearUnits": [3],
+    "KeroseneLitersRequired": 0.30,
+	"GunpowderKGRequired": 0.10,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised","GEAR_Hatchet","GEAR_HatchetImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WoodMatches",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 180,
+    "CraftingAudio": "PLAY_CraftingWood",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

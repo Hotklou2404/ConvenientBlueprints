@@ -1,0 +1,18 @@
+{
+    "@type": "ModComponentAPI.ModBlueprint",
+    "RequiredGear": ["GEAR_BearHide"],
+    "RequiredGearUnits": [1],
+    "KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Leather",
+    "CraftedResultCount": 5,
+    "DurationMinutes": 600,
+    "CraftingAudio": "PLAY_CraftingLeather",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
