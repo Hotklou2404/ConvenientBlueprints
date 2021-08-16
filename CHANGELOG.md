@@ -11,4 +11,4 @@
 * Added CardboardMatches recipe
 * Added WoodMatches recipe
 #### Crafting Icons
-* Added StoneToScrapMetal crafting icon
+* Added crafting icon for StoneToScrapMetal
