@@ -3,7 +3,7 @@
 ## v1.0.1 (17-08-2021):
 ### New
 * Added SharpeningStone custom recipe
-* Added crafting icon for all custom recipes
+* Added crafting icons for all custom recipes
 ### Changed
 * Increased fresh leather output for RabbitPeltToLeather from 1 to 2
 * Increased fresh leather output for DeerHideToLeather from 2 to 4
@@ -11,7 +11,7 @@
 * Increased fresh leather output for MooseHideToLeather from 4 to 8
 * Increased fresh leather output for BearHideToLeather from 5 to 10
 ### Fixed
-* Crafting icons now actually work
+* All crafting icons now actually work
 
 ## v1.0.0 (16-08-2021):
 ### New
