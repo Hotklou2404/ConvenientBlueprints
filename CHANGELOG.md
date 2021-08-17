@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v1.0.1 (2021-08-17):
+## v1.0.1 (17-08-2021):
 ### New
 * Added SharpeningStone custom recipe
 * Added crafting icon for all custom recipes
@@ -13,7 +13,7 @@
 ### Fixed
 * Crafting icons now actually work
 
-## v1.0.0 (2021-08-16):
+## v1.0.0 (16-08-2021):
 ### New
 * Added StoneToScrapMetal custom recipe
 * Added RabbitPeltToLeather custom recipe
