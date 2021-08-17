@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v1.0.1 (17-08-2021):
+## v1.1.0 (17-08-2021):
 ### New
 * Added SharpeningStone custom recipe
 * Added crafting icons for all custom recipes
