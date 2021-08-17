@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [UNRELEASED] v1.2.0:
+### New
+* Re-added the following custom recipes:
+  * RabbitPeltToLeather
+  * WolfPeltToLeather
+  * MooseHideToLeather
+  * BearHideToLeather
+### Changed
+* Rebalanced the following recipes:
+  * RabbitPeltToLeather
+  * DeerHideToLeather
+  * WolfPeltToLeather
+  * MooseHideToLeather
+  * BearHideToLeather
+
 ## v1.1.0 (17-08-2021):
 ### New
 * Added SharpeningStone custom recipe
