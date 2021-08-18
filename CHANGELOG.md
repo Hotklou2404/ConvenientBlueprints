@@ -21,7 +21,7 @@
 * Added SharpeningStone custom recipe
 * Added crafting icons for all custom recipes
 ### Changed
-* Removed the following custom recipes:
+* Temporarily removed the following custom recipes:
   * RabbitPeltToLeather
   * WolfPeltToLeather
   * BearHideToLeather
