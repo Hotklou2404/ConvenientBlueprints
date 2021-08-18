@@ -1,6 +1,9 @@
 # ConvenientBlueprints
 Convenient Blueprints is a mod for The Long Dark that adds custom crafting recipes for select items and materials that are normally either non-renewable or only renewable through beachcombing.
 
+## Recipes
+For a list of features check out the [wiki](https://github.com/Hotklou2404/ConvenientBlueprints/wiki/Recipes).
+
 ## Installation
 1. If you haven't done so already, install the latest version of MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe).
 2. If you haven't done so already, download the latest version of `ModComponent.dll` from its [releases page](https://github.com/ds5678/ModComponent/releases/latest).
@@ -11,6 +14,3 @@ Convenient Blueprints is a mod for The Long Dark that adds custom crafting recip
 7. Move `ConvenientBlueprints.modcomponent` into the `ModComponentZips` folder within your Mods folder.
 
 In the end the path to the mod should look something like this: `TheLongDark\Mods\ModComponentZips\ConvenientBlueprints.modcomponent`.
-
-## Recipes
-For a list of features check out the [wiki](https://github.com/Hotklou2404/ConvenientBlueprints/wiki/Recipes).
