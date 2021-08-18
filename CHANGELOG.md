@@ -1,32 +1,18 @@
 # CHANGELOG
 
-## [UNRELEASED] v1.2.0:
-### New
-* Re-added the following custom recipes:
-  * RabbitPeltToLeather
-  * WolfPeltToLeather
-  * MooseHideToLeather
-  * BearHideToLeather
-### Changed
-* Rebalanced the following recipes:
-  * RabbitPeltToLeather
-  * DeerHideToLeather
-  * WolfPeltToLeather
-  * MooseHideToLeather
-  * BearHideToLeather
-
 ## v1.1.0 (17-08-2021):
 ### New
 * Added SharpeningStone custom recipe
 * Added crafting icons for all custom recipes
 ### Changed
-* Removed the following custom recipes:
+* Rebalanced the following custom recipes:
   * RabbitPeltToLeather
+  * DeerHideToLeather
   * WolfPeltToLeather
-  * MooseHideToLeather
   * BearHideToLeather
+  * MooseHideToLeather
 ### Fixed
-* All crafting icons now actually work
+* Crafting icons now actually work
 
 ## v1.0.0 (16-08-2021):
 ### New
@@ -35,8 +21,8 @@
   * RabbitPeltToLeather
   * DeerHideToLeather
   * WolfPeltToLeather
-  * MooseHideToLeather
   * BearHideToLeather
+  * MooseHideToLeather
   * CardboardMatches
   * WoodMatches
 * Added crafting icon for StoneToScrapMetal
