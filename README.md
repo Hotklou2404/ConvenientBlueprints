@@ -13,4 +13,4 @@ This is a mod for The Long Dark that adds custom crafting recipes for select ite
 In the end the path to the mod should look something like this: `TheLongDark\Mods\ModComponentZips\ConvenientBlueprints.modcomponent`.
 
 ## Features
-For a list of features check out this mod's very own [wiki](https://github.com/Hotklou2404/ConvenientBlueprints/wiki).
+For a list of features check out the [wiki](https://github.com/Hotklou2404/ConvenientBlueprints/wiki).
