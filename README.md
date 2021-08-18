@@ -12,5 +12,5 @@ Convenient Blueprints is a mod for The Long Dark that adds custom crafting recip
 
 In the end the path to the mod should look something like this: `TheLongDark\Mods\ModComponentZips\ConvenientBlueprints.modcomponent`.
 
-## Features
-For a list of features check out the [wiki](https://github.com/Hotklou2404/ConvenientBlueprints/wiki).
+## Recipes
+For a list of features check out the [wiki](https://github.com/Hotklou2404/ConvenientBlueprints/wiki/Recipes).
