@@ -1,5 +1,5 @@
 # ConvenientBlueprints
-This is a mod for The Long Dark that adds custom crafting recipes for select items and materials that are normally either non-renewable or only renewable through beachcombing.
+ConvenientBlueprints is a mod for The Long Dark that adds custom crafting recipes for select items and materials that are normally either non-renewable or only renewable through beachcombing.
 
 ## Installation
 1. If you haven't done so already, install the latest version of MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe).
