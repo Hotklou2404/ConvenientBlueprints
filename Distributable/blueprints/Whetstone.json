@@ -6,7 +6,7 @@
 	"GunpowderKGRequired": 0,
     "RequiredTool": "GEAR_Hammer",
     "OptionalTools": [],
-    "RequiredCraftingLocation": "Anywhere",
+    "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_SharpeningStone",
