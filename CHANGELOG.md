@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v1.2.0:
+## v1.2.0 (19/08/2021):
 ### New
 * Re-added the following custom recipes:
   * RabbitPeltToLeather
