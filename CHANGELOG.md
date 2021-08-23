@@ -15,7 +15,7 @@
   * BearHideToLeather
   * MooseHideToLeather
   * SharpeningStone
-* Renamed the SharpeningStone custom recipe to Whetstone, it will be referred to by this name in the future.
+* Renamed the SharpeningStone custom recipe to Whetstone.
 
 ## v1.1.0 (17-08-2021):
 ### New
